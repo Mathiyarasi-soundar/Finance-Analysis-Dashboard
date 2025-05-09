@@ -19,7 +19,7 @@ This project presents a **Finance Analysis Dashboard** created using **Microsoft
 
 ## Dashboard Preview
 
-![Executive Summary](
+  ![Dashboard Preview](Assets/Executive summary.PNG)
 
 ---
 
