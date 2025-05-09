@@ -17,6 +17,12 @@ This project presents a **Finance Analysis Dashboard** created using **Microsoft
 
 ---
 
+## Dashboard Preview
+
+![Executive Summary](
+
+---
+
 ## Features
 
 ### Excel
@@ -73,11 +79,7 @@ This project presents a **Finance Analysis Dashboard** created using **Microsoft
 
 ---
 
-## Screenshots
 
-> *(Add dashboard screenshots here or link to Power BI report if published)*
-
----
 
 ## Contact
 
